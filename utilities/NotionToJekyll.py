@@ -2,7 +2,7 @@
 #
 # MIT License
 # 
-# Copyright (c) 2020 Raghuveer S
+# Copyright (c) 2022 Rene Kabanda
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@
 # SOFTWARE.
 #
 #
-# Author@Raghuveer S
+# Author@Rene Kabanda
 # This is a file I use with Notion to automatically convert my Notion documents to Blogposts
 #
 # How to use this file:

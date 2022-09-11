@@ -2,7 +2,7 @@
  * 
  * MIT License
  * 
- * Copyright (c) 2020 Raghuveer S
+ * Copyright (c) 2022 Rene Kabanda
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@
  * SOFTWARE.
  * 
  * 
- * Author@Raghuveer S, 2019
+ * Author@Rene Kabanda, 2019
  * This is a plugin that I use with VS Code to enable autocompletion of 
  * filenames when using wiki-style link syntax "[["
  * 

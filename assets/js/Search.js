@@ -2,7 +2,7 @@
  * 
  * MIT License
  * 
- * Copyright (c) 2020 Raghuveer S
+ * Copyright (c) 2022 Rene Kabanda
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +24,7 @@
  * 
  * 
  * File: Search.js
- * Author@Raghuveer S
+ * Author@Rene Kabanda
  * 
  * Preface: I take loads of inspiration from just-the-docs to implement this.
  * This can be easily ported to suit your needs. There is very little project specific stuff

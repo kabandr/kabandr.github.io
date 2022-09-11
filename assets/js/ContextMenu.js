@@ -1,7 +1,7 @@
 /********************************************************************************************
  * MIT License
  * 
- * Copyright (c) 2020 Raghuveer S
+ * Copyright (c) 2022 Rene Kabanda
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@
  * 
  * 
  * File: ContextMenu.js
- * Author@Raghuveer S
+ * Author@Rene Kabanda
  *
  * This allows us to override the default contextmenu provided by the browser and replace
  * it with a custom context menu containing options to view related files and files
