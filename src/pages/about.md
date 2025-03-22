@@ -6,7 +6,7 @@ description: "About Me"
 
 # About Me
 
-![alt text](about-me.jpg)
+![alt text](personal-photo.jpg)
 
 I'm a platform engineer with 10+ years of experience in Software and Cloud, specialising in building scalable, secure, and efficient infrastructure. I currently work at [YourParkingSpace](https://www.yourparkingspace.co.uk/), and live in London, UK.
 
