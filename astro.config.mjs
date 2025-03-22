@@ -6,7 +6,7 @@ import mdx from "@astrojs/mdx";
 import playformCompress from "@playform/compress";
 
 export default defineConfig({
-  base: "/kabandr.github.io/",
+  base: "/",
   site: CONFIG.site_url,
   integrations: [sitemap(), mdx(), playformCompress()],
   markdown: {
