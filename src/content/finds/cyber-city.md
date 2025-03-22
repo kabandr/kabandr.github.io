@@ -1,8 +1,8 @@
 ---
 publicationDate: 2025-03-20
-title: "Building Competitive Edge With Platform Engineering"
+title: "Microsoft’s palm-sized chip brings practical quantum computing within reach"
 description: ""
-link: https://cloud.google.com/resources/content/google-cloud-esg-competitive-edge-platform-engineering?e=48754805
+link: https://www.cloudcomputing-news.net/news/microsofts-palm-sized-chip-brings-practical-quantum-computing-within-reach/
 type: "article"
 public: true
 ---
