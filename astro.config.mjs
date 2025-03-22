@@ -7,7 +7,7 @@ import playformCompress from "@playform/compress";
 
 export default defineConfig({
   site: 'https://kabandr.github.io',
-  base: "/kabandr.github.io",
+  base: "/",
   site: CONFIG.site_url,
   integrations: [sitemap(), mdx(), playformCompress()],
   markdown: {
