@@ -4,7 +4,7 @@ title: "About"
 description: "About Me"
 ---
 
-# A Bit About Me
+# About Me
 
 ![alt text](about-me.jpg)
 
