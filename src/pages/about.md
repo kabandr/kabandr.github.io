@@ -4,13 +4,15 @@ title: "About"
 description: "About Me"
 ---
 
+# A Bit About Me
+
 ![alt text](about-me.jpg)
 
-I'm a platform engineer with over 10 years of experience in software and cloud, specialising in building scalable, secure, and efficient cloud infrastructure. I currently reside in London, UK.
+I'm a platform engineer with 10+ years of experience in Software and Cloud, specialising in building scalable, secure, and efficient infrastructure. I currently work at [YourParkingSpace](https://www.yourparkingspace.co.uk/), and live in London, UK.
 
 ## My Journey
 
-My passion for technology started with a curiosity about how systems work behind the scenes. Over the years, I’ve evolved from writing simple scripts to architecting and automating cloud environments for large-scale applications. From startups to enterprise systems, every project has taught me new ways to optimise and innovate.  
+My passion for technology began at a young age with a curiosity about how systems work behind the scenes. Over the years, I’ve evolved from writing simple scripts to architecting and automating cloud environments for large-scale applications. From startups to enterprise systems, every project has taught me new ways to optimise and innovate.  
 
 ## What I Do  
 
